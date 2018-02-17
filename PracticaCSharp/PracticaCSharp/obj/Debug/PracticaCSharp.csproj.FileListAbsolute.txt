@@ -1,0 +1,11 @@
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe.config
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.exe
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\bin\Debug\PracticaCSharp.pdb
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csprojResolveAssemblyReference.cache
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form1.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Properties.Resources.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.csproj.GenerateResource.Cache
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.exe
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.pdb
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form2.resources
+c:\users\youth\documents\visual studio 2015\Projects\PracticaCSharp\PracticaCSharp\obj\Debug\PracticaCSharp.Form3.resources
